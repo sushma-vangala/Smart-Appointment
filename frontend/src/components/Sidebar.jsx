@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { AdminContext } from "../context/AdminContext";
 import { NavLink } from "react-router-dom";
-import { assets } from "../../../admin/src/assets/assets";
+import { assets } from "../assets/assets";
 import { ProviderContext } from "../context/ProviderContext";
 
 const Sidebar = () => {
