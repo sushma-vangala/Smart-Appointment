@@ -2,7 +2,7 @@ import React, { useContext, useEffect, useState } from 'react';
 import { Route, Routes, Navigate, useNavigate, useLocation } from 'react-router-dom';
 import Home from './pages/Home';
 import About from './pages/About';
-import Contact from './pages/contact';
+import Contact from './pages/Contact';
 import Services from './pages/Services';
 import MyProfile from './pages/Myprofile';
 import MyAppointments from './pages/MyAppointments';
